@@ -2,11 +2,11 @@
 #include <math.h>
 
 int main(){
-    double x = 5.0;
-    double N = 10.0;
+    int x = 5;
+    int N = 10;
     double S = 0.0;
-    double d = 1.0;
-    double v = 0.0;
+    int d = 1;
+    int v = 0;
 
     for(int i = 1; i <= N; i++){
         v += 1;
