@@ -4,7 +4,6 @@
 int main(){
     double S = 0.0;
     int x = 1;
-    int v = 1;
     double coef = 0.18;
 
     for(x; x <= 10; x++){
